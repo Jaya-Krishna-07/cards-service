@@ -33,5 +33,4 @@ public class Cards extends BaseEntity {
     private int amountUsed;
 
     private int availableAmount;
-
 }
